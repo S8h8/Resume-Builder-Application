@@ -20,7 +20,7 @@
 - **Modular Code Architecture**  
   Clean separation of concerns through reusable components and functions, making it easy to expand or integrate APIs la
 - **Open Source Ready**  
-  With a planned MIT license and GitHub-hosted live demo, it's ideal for community contributions and employer visibility.
+  With a planned GitHub-hosted live demo, it's ideal for community contributions and employer visibility.
 
  Real-World Effectiveness
 
